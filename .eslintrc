@@ -1,0 +1,7 @@
+{
+  "parser": "@babel/eslint-parser",
+  "extends": ["airbnb"],
+  "rules": {
+    "max-len": [1, 201, 2, { "ignoreComments": true }]
+  }
+}
